@@ -1,4 +1,4 @@
-const host = 'http://localhost:8080'
+const host = 'https://bsaleshop.herokuapp.com'
 const fragment = document.createDocumentFragment()
 let cart = {}
 let categoryId = null
