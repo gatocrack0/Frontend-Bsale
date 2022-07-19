@@ -2,7 +2,7 @@
 
 Aplicación web de tienda online que consume API REST: https://github.com/gatocrack0/Backend-Bsale para el desafio de Bsale
 
-deploy: ////
+deploy: https://dancing-bunny-4fecbd.netlify.app/
 
 # Funcionalidades de la aplicación
 
