@@ -1,0 +1,39 @@
+body {
+    background-color: #FBFBFD;
+}
+
+.bg-color {
+    background-color: #FF6815;
+    border-color: #FBFBFD;
+    border-radius: 7px;
+}
+
+.navbar-brand-color {
+    color: #ffffff;
+}
+
+.icon {
+    font-size:17px
+}
+
+#lblCartCount {
+    font-size: 13px;
+    background: #09c231dc;
+    padding: 0 5px;
+    vertical-align: top;
+    margin-left: -10px;
+}
+
+.img-responsive {
+    width: 100%;
+    height: 22vh;
+}
+
+.quantity {
+    padding: 0 36px;
+}
+
+.cart-total {
+    padding: 0 8px;
+}
+
